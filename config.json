@@ -1,0 +1,14 @@
+{
+  "presets": {
+    "サンプルプリセット１": [
+      {
+        "source": "E:\\workspace\\Copying\\",
+        "to": "E:\\UserData\\Desktop\\testCopy\\"
+      },
+      {
+        "source": "E:\\workspace\\Copying\\pom.xml",
+        "to": "E:\\UserData\\Desktop\\"
+      }
+    ]
+  }
+}
